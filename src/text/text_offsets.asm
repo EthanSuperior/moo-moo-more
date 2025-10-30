@@ -6453,3 +6453,9 @@ SECTION "Text Offsets 2", ROMX
 	textpointer HereComesTeamRocketDescription                     ; 0x1929
 	textpointer TheRocketsTrapName                                 ; 0x192a
 	textpointer TheRocketsTrapDescription                          ; 0x192b
+	textpointer MyFarfetchdName                                    ; 0x192c
+	textpointer MyLeekSlapName                                     ; 0x192d
+	textpointer MyLeekSlapDescription                              ; 0x192e
+	textpointer MyPotSmashName                                     ; 0x192f
+	textpointer MyWildDuckName                                     ; 0x1930
+	textpointer MyFarfetchdLv20Description                         ; 0x1931

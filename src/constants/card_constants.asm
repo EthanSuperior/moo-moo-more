@@ -444,4 +444,5 @@
 	const ROCKETS_SNEAK_ATTACK     ; $1bb
 	const HERE_COMES_TEAM_ROCKET   ; $1bc
 	const THE_ROCKETS_TRAP         ; $1bd
+	const MY_FARFETCHD_LV20        ; $1be
 DEF NUM_CARDS EQU const_value - 1

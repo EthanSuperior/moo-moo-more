@@ -449,5 +449,5 @@ CardPointers::
 	card_ptr RocketsSneakAttackCard    ; ROCKETS_SNEAK_ATTACK
 	card_ptr HereComesTeamRocketCard   ; HERE_COMES_TEAM_ROCKET
 	card_ptr TheRocketsTrapCard        ; THE_ROCKETS_TRAP
-
+	card_ptr MyFarfetchdLv20Card       ; MY_FARFETCHD_LV20
 	ds $b4, $0
