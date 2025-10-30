@@ -61,15 +61,20 @@ INCLUDE "engine/bank12.asm"
 SECTION "Bank 13", ROMX
 INCLUDE "engine/bank13.asm"
 
+SECTION "Bank 15", ROMX
+INCLUDE "engine/bank15.asm"
+
 SECTION "Bank 16", ROMX
-INCLUDE "engine/bank16.asm"
+INCLUDE "data/card_pointers.asm"
 
 SECTION "Bank 17", ROMX
-INCLUDE "data/card_pointers.asm"
 INCLUDE "data/cards1.asm"
 
 SECTION "Bank 18", ROMX
 INCLUDE "data/cards2.asm"
+
+SECTION "Bank 19", ROMX
+INCLUDE "data/extra_cards.asm"
 
 SECTION "Bank 1a", ROMX
 INCLUDE "engine/bank1a.asm"

@@ -53,3 +53,6 @@ INCLUDE "text/text16.asm"
 
 SECTION "Text 17", ROMX
 INCLUDE "text/text17.asm"
+
+SECTION "TEXT 18", ROMX
+INCLUDE "text/extra_cards_text.asm"

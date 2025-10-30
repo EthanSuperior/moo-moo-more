@@ -71,13 +71,16 @@ ROMX $12
 ROMX $13
 	"Bank 13"
 ; ROMX $14 and $15 are empty
+ROMX $15
+	"Bank 15"
 ROMX $16
 	"Bank 16"
 ROMX $17
 	"Bank 17"
 ROMX $18
 	"Bank 18"
-; ROMX $19 not started
+ROMX $19
+	"Bank 19"
 ROMX $1a
 	"Bank 1a"
 ROMX $1b
@@ -90,40 +93,43 @@ ROMX $37
 	"Text Offsets"
 ROMX $38
 	"Text Offsets 2"
-	"Text 1"
+; moved "Text 1" to next bank to free space
 ROMX $39
-	"Text 2"
+	"Text 1"
 ROMX $3a
-	"Text 3"
+	"Text 2"
 ROMX $3b
-	"Text 4"
+	"Text 3"
 ROMX $3c
-	"Text 5"
+	"Text 4"
 ROMX $3d
-	"Text 6"
+	"Text 5"
 ROMX $3e
-	"Text 7"
+	"Text 6"
 ROMX $3f
-	"Text 8"
+	"Text 7"
 ROMX $40
-	"Text 9"
+	"Text 8"
 ROMX $41
-	"Text 10"
+	"Text 9"
 ROMX $42
-	"Text 11"
+	"Text 10"
 ROMX $43
-	"Text 12"
+	"Text 11"
 ROMX $44
-	"Text 13"
+	"Text 12"
 ROMX $45
-	"Text 14"
+	"Text 13"
 ROMX $46
-	"Text 15"
+	"Text 14"
 ROMX $47
-	"Text 16"
+	"Text 15"
 ROMX $48
+	"Text 16"
+ROMX $49
 	"Text 17"
-; ROMX $49 and $4a are empty
+ROMX $4a
+	"TEXT 18"
 ROMX $4b
 	"Bank 4b"
 	"Tilemaps 1"
